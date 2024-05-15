@@ -20,6 +20,16 @@ Sourceduty is making significant contributions to the game development landscape
 Game development funding is a critical aspect of bringing creative visions to life, encompassing various methods to secure financial support for projects. Developers often rely on multiple sources, including personal savings, angel investors, venture capital, and crowdfunding platforms like Kickstarter or Indiegogo. Grants from government programs and industry-specific funds also provide essential support, especially for innovative or culturally significant projects. Additionally, revenue from early access releases, pre-orders, and microtransactions can fund ongoing development. Effective financial planning and transparent communication with backers are crucial for managing resources and ensuring the successful completion of a game.
 
 #
+
+> Alex: *"I probably won't develop any additional retro 70s and 80s games."* 
+
+> *"I might create more large and modern or future game concepts."*
+
+> *"Developing retro 90s or 2000s games might be fun in the future."*
+
+> *"I casually play streamed PC games using a business laptop."*
+
+#
 ### Related Links
 
 [Game Consoles](https://github.com/sourceduty/Game_Consoles)
@@ -31,16 +41,6 @@ Game development funding is a critical aspect of bringing creative visions to li
 #
 
 Sourceduty also shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
-
-#
-
-> Alex: *"I probably won't develop any additional retro 70s and 80s games."* 
-
-> *"I might create more large and modern or future game concepts."*
-
-> *"Developing retro 90s or 2000s games might be fun in the future."*
-
-> *"I casually play streamed PC games using a business laptop."*
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
