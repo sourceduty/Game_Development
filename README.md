@@ -32,5 +32,15 @@ Game development funding is a critical aspect of bringing creative visions to li
 
 Sourceduty also shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
 
+#
+
+> Alex: *"I probably won't develop any additional retro 70s and 80s games."* 
+
+> *"I might create more large and modern or future game concepts."*
+
+> *"Developing retro 90s or 2000s games might be fun in the future."*
+
+> *"I casually play streamed PC games using a business laptop."*
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
